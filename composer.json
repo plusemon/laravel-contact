@@ -1,0 +1,19 @@
+{
+    "name": "plusemon/contact",
+    "description": "This is example laravel contact sending package.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Plusemon\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "emon khan",
+            "email": "bdemon00@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
